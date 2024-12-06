@@ -35,8 +35,7 @@ O projeto "Financy" é uma plataforma que auxilia os usuários a gerenciar suas 
   - Banco de Dados: PostgreSQL.
   - Outras Tecnologias:
     - JWT (JSON Web Token) para autenticação.
-    - Validator.js para validações de dados.
-    - Middleware personalizado para tratamento de erros e validação.
+    - JOI para validações de dados.
 
 # Estrutura do Projeto
 
